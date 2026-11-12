@@ -20,6 +20,18 @@ Practical tools that connect security, operations and business value. Each repos
 | [policy-rag](https://github.com/jvch0512/policy-rag) | Grounded Q&A over security policies with citations and retrieval evaluation | Python, BM25 |
 | [hardening-audit](https://github.com/jvch0512/hardening-audit) | Read-only Linux audit that generates an Ansible remediation playbook | Python, Ansible |
 | [agentshield](https://github.com/jvch0512/agentshield) | Security scanner for MCP servers, agent skills and prompt files: local web dashboard, SARIF and GitHub Action | Python, FastAPI, JavaScript |
+| [actions-audit](https://github.com/jvch0512/actions-audit) | Security linter for GitHub Actions workflows: unpinned actions, script injection, risky permissions | Python |
+| [secret-sniffer](https://github.com/jvch0512/secret-sniffer) | Secret scanner with entropy detection, staged-commit scanning, baselines and redacted output | Python |
+| [security-headers-audit](https://github.com/jvch0512/security-headers-audit) | A-F grading of HTTP security headers, CSP and cookie flags | Python |
+| [jwt-inspect](https://github.com/jvch0512/jwt-inspect) | Offline JWT auditor: alg none, weak HMAC secrets, jku/kid abuse | Python |
+| [portscan-go](https://github.com/jvch0512/portscan-go) | Concurrent TCP scanner with banner grabbing and exposure labels | Go |
+| [hashcheck-rs](https://github.com/jvch0512/hashcheck-rs) | File integrity manifests, verification and duplicate finder | Rust |
+| [csp-builder](https://github.com/jvch0512/csp-builder) | Build, parse and lint Content-Security-Policy headers | TypeScript |
+| [java-dep-audit](https://github.com/jvch0512/java-dep-audit) | Flags known-vulnerable Maven and Gradle dependencies, XXE-safe parsing | Java |
+| [entropy-c](https://github.com/jvch0512/entropy-c) | Shannon entropy analyzer to spot packed or encrypted files | C |
+| [rails-sec-lint](https://github.com/jvch0512/rails-sec-lint) | Static security linter for Ruby and Rails, 16 rules with CWE ids | Ruby |
+| [php-vuln-lint](https://github.com/jvch0512/php-vuln-lint) | Static linter for insecure PHP patterns: SQLi, XSS, LFI, RCE | PHP |
+| [linux-baseline](https://github.com/jvch0512/linux-baseline) | Read-only Linux hardening checker with JSON output | Bash |
 
 ## Focus areas
 
