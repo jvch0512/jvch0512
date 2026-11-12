@@ -32,6 +32,11 @@ Practical tools that connect security, operations and business value. Each repos
 | [rails-sec-lint](https://github.com/jvch0512/rails-sec-lint) | Static security linter for Ruby and Rails, 16 rules with CWE ids | Ruby |
 | [php-vuln-lint](https://github.com/jvch0512/php-vuln-lint) | Static linter for insecure PHP patterns: SQLi, XSS, LFI, RCE | PHP |
 | [linux-baseline](https://github.com/jvch0512/linux-baseline) | Read-only Linux hardening checker with JSON output | Bash |
+| [tls-expiry](https://github.com/jvch0512/tls-expiry) | TLS certificate checker: expiry, chain, hostname, weak crypto, many hosts at once | Go |
+| [log-sentinel](https://github.com/jvch0512/log-sentinel) | SSH log analysis: brute force, spraying and success-after-failure detection | Go |
+| [mailauth-audit](https://github.com/jvch0512/mailauth-audit) | Offline SPF, DKIM and DMARC auditor with lookup budget and key-size checks | Rust |
+| [k8s-audit](https://github.com/jvch0512/k8s-audit) | Static security audit for Kubernetes manifests with a fix per finding | TypeScript |
+| [sbom-diff](https://github.com/jvch0512/sbom-diff) | CycloneDX SBOM comparison with license and downgrade policy gates | TypeScript |
 
 ## Focus areas
 
