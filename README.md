@@ -10,13 +10,11 @@ I build security tools, then explain them to the people who have to buy them.
 - **Cybersecurity:** vulnerability management, detection engineering, phishing analysis, attack-path modeling, compliance (NIS2, GDPR, ISO 27001)
 - **Data and AI:** analytics, dashboards and AI used with guardrails in security workflows
 
-**Education:** MBA in AI & Data Analytics (USP/Esalq), postgraduate in Cybersecurity Defense (FIAP), MBA in IT Leadership & People Management in progress (Saskatchewan Polytechnic)
+**Education:** MBA in AI & Data Analytics (USP/Esalq), postgraduate in Cybersecurity Defense (FIAP), MBA in IT Leadership & People Management (Saskatchewan Polytechnic)
 
 **Languages:** Portuguese (native), English and Spanish (fluent)
 
 ## Flagship projects
-
-Proof, not promises: ten end-to-end applications, each with a UI, tests, CI and documentation.
 
 | Project | Stack | What it does |
 |---|---|---|
