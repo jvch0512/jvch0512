@@ -33,6 +33,14 @@ I build security tools, then explain them to the people who have to buy them.
 | [discovery-copilot](https://github.com/jvch0512/discovery-copilot) | TypeScript | Pre-sales discovery prep: NIS2, DORA, ENS and GDPR scoping, ranked gaps, questions and demo storyline, EN/ES |
 | [compliance-workbench](https://github.com/jvch0512/compliance-workbench) | TypeScript | RFP shredder mapped to NIS2, ISO 27001 and ENS, DORA contract register check, ENS planner, security ROI lab and a NIS2 CI gate |
 | [mcp-red-team](https://github.com/jvch0512/mcp-red-team) | Python | Offensive tester for MCP servers: tool poisoning, injection, SSRF, secret leaks and rug pulls |
+| [cra-readiness](https://github.com/jvch0512/cra-readiness) | TypeScript | EU Cyber Resilience Act readiness: SBOM quality, obligations by product class and the 24h, 72h and 14-day reporting clock |
+| [external-posture](https://github.com/jvch0512/external-posture) | TypeScript | External attack surface posture from DNS, mail authentication, TLS and headers, with offline snapshots |
+| [agent-inventory](https://github.com/jvch0512/agent-inventory) | TypeScript | Inventory and risk classification of AI agents and MCP servers, with EU AI Act exposure |
+| [sigma-lab](https://github.com/jvch0512/sigma-lab) | TypeScript | Detection-as-code lab: Sigma precision and recall on labelled events and ATT&CK coverage of your threat profile |
+| [phish-triage](https://github.com/jvch0512/phish-triage) | TypeScript | Offline phishing e-mail triage with an explainable verdict |
+| [tlpt-planner](https://github.com/jvch0512/tlpt-planner) | TypeScript | DORA TLPT planner: dated schedule from the RTS 2025/1190 phases, readiness and cycle checks |
+| [cloud-to-ens](https://github.com/jvch0512/cloud-to-ens) | TypeScript | Cloud configuration to ENS and NIS2 findings, in Spanish and English |
+| [insurance-readiness](https://github.com/jvch0512/insurance-readiness) | TypeScript | Cyber insurance questionnaire answers checked against evidence, with gates and misstatement risk |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
