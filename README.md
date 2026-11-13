@@ -1,6 +1,6 @@
 # Hi, I'm João Victor
 
-**Technical Supervisor** working at the intersection of **IT operations, cybersecurity and data analytics**, with a customer-facing, solutions-oriented approach.
+Working at the intersection of **IT operations, cybersecurity and data analytics**, with a customer-facing, solutions-oriented approach.
 
 * Guest speaker at the **XVII Congresso Internacional Six Sigma Brasil 2026**
 * **Certified Zoho Analytics**
