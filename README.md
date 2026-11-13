@@ -18,24 +18,34 @@ I build security tools, then explain them to the people who have to buy them.
 
 | Project | Stack | What it does |
 |---|---|---|
+| [compliance-atlas](https://github.com/jvch0512/compliance-atlas) | Java | One control library mapped to NIS2, ISO 27001:2022, ENS, GDPR and DORA with an evidence-aware readiness score |
+| [presales-studio](https://github.com/jvch0512/presales-studio) | TypeScript | Questionnaire to client-ready security proposal with ROI, EN/ES, number-validated AI summary |
+| [mcp-sentinel](https://github.com/jvch0512/mcp-sentinel) | Go | Policy proxy for MCP servers: blocks risky tool calls, redacts secrets, withholds injected results |
+| [soc-agent-bench](https://github.com/jvch0512/soc-agent-bench) | Python | Benchmark that scores SOC triage agents on verdict, evidence, actions and resistance to injection |
+| [tabletop-ir](https://github.com/jvch0512/tabletop-ir) | TypeScript | Incident response tabletop with running NIS2/GDPR deadlines and a best-path after-action report |
+| [fair-sim](https://github.com/jvch0512/fair-sim) | Python | FAIR-style cyber risk in euros: Monte Carlo loss curves, risk appetite and control ROI |
 | [secops-hub](https://github.com/jvch0512/secops-hub) | Go | SOC dashboard with ATT&CK mapping and AI triage |
 | [prompt-injection-arena](https://github.com/jvch0512/prompt-injection-arena) | TypeScript | Game and red-team harness for LLM prompt injection (OWASP LLM01) |
 | [attackpath](https://github.com/jvch0512/attackpath) | Go | Attack path graph with Dijkstra and remediation what-if |
-| [honeynet-live](https://github.com/jvch0512/honeynet-live) | Go | Live honeypot with attacker simulator, SSE dashboard and IOC export |
-| [crypto-lab](https://github.com/jvch0512/crypto-lab) | Rust | SHA-256 and AES from scratch plus ECB, padding oracle, length extension and RSA attacks |
-| [terminal-soc](https://github.com/jvch0512/terminal-soc) | Rust | Terminal SOC console (ratatui) with alert triage and playbooks |
-| [vulnshop](https://github.com/jvch0512/vulnshop) | PHP + Go | Deliberately vulnerable shop with a secure twin and a scanner that proves the difference |
-| [logforge](https://github.com/jvch0512/logforge) | C | Freestanding log analysis core with CLI, Python and Node bindings, benchmarked |
 | [phish-radar](https://github.com/jvch0512/phish-radar) | TypeScript | .eml analyzer: SPF/DKIM/DMARC, links, attachments, AI review that can only raise the verdict |
-| [presales-studio](https://github.com/jvch0512/presales-studio) | TypeScript | Questionnaire to client-ready security proposal with ROI, EN/ES, number-validated AI summary |
 
 <details>
-<summary><b>More tools (24 smaller repos)</b></summary>
+<summary><b>More tools (32 smaller repos)</b></summary>
 
 Practical tools that connect security, operations and business value. Each repository has tests, CI and a README that explains the design decisions.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [honeynet-live](https://github.com/jvch0512/honeynet-live) | Live honeypot with attacker simulator, SSE dashboard and IOC export | Go |
+| [crypto-lab](https://github.com/jvch0512/crypto-lab) | SHA-256 and AES from scratch plus ECB, padding oracle, length extension and RSA attacks | Rust |
+| [terminal-soc](https://github.com/jvch0512/terminal-soc) | Terminal SOC console (ratatui) with alert triage and playbooks | Rust |
+| [vulnshop](https://github.com/jvch0512/vulnshop) | Deliberately vulnerable shop with a secure twin and a scanner that proves the difference | PHP + Go |
+| [logforge](https://github.com/jvch0512/logforge) | Freestanding log analysis core with CLI, Python and Node bindings, benchmarked | C |
+| [vex-reach](https://github.com/jvch0512/vex-reach) | Advisories + lockfile + source into an OpenVEX document, using import reachability | Rust |
+| [cloud-iam-paths](https://github.com/jvch0512/cloud-iam-paths) | Privilege escalation paths to admin in an AWS IAM export, with the shortest chain | Go |
+| [canary-grid](https://github.com/jvch0512/canary-grid) | Signed canary tokens and decoys with a hardened listener and a log scanner | Rust |
+| [dfir-lens](https://github.com/jvch0512/dfir-lens) | Local-first forensic timeline from Windows, Linux and web logs with ATT&CK-mapped findings | TypeScript |
+| [surface-radar](https://github.com/jvch0512/surface-radar) | Attack surface report and change diff from nmap XML, never touches the network | Java |
 | [vulnprio](https://github.com/jvch0512/vulnprio) | Risk-based vulnerability prioritization with CVSS, EPSS, CISA KEV and asset context | Python |
 | [detect-engine](https://github.com/jvch0512/detect-engine) | Sigma-style detection engine with MITRE ATT&CK mapping and Navigator export | Python, YAML |
 | [compliance-forge](https://github.com/jvch0512/compliance-forge) | NIS2 + GDPR + ISO 27001 gap assessment with a phased remediation roadmap | Python, YAML |
