@@ -1,13 +1,38 @@
 # Hi, I'm João Victor
 
-Working at the intersection of **IT operations, cybersecurity and data analytics**, with a customer-facing, solutions-oriented approach.
+I build security tools, then explain them to the people who have to buy them.
 
-* Guest speaker at the **XVII Congresso Internacional Six Sigma Brasil 2026**
-* **Certified Zoho Analytics**
-* MBA in **AI & Data Analytics** (USP/Esalq), postgraduate degree in **Cybersecurity Defense** (FIAP), currently pursuing an MBA in IT Leadership & People Management (Saskatchewan Polytechnic)
-* Languages: Portuguese (native), English (fluent), Spanish (fluent)
+6 years working where cybersecurity, data and customer conversations meet: finding the real risk, designing the solution, proving it with a working demo and putting a number on the business case.
 
-## What I build
+**What I do**
+
+- **Pre-sales engineering:** discovery, solution design, demos and proposals with ROI, for technical and non-technical buyers
+- **Cybersecurity:** vulnerability management, detection engineering, phishing analysis, attack-path modeling, compliance (NIS2, GDPR, ISO 27001)
+- **Data and AI:** analytics, dashboards and AI used with guardrails in security workflows
+
+**Education:** MBA in AI & Data Analytics (USP/Esalq), postgraduate in Cybersecurity Defense (FIAP), MBA in IT Leadership & People Management in progress (Saskatchewan Polytechnic)
+
+**Languages:** Portuguese (native), English and Spanish (fluent)
+
+## Flagship projects
+
+Proof, not promises: ten end-to-end applications, each with a UI, tests, CI and documentation.
+
+| Project | Stack | What it does |
+|---|---|---|
+| [secops-hub](https://github.com/jvch0512/secops-hub) | Go | SOC dashboard with ATT&CK mapping and AI triage |
+| [prompt-injection-arena](https://github.com/jvch0512/prompt-injection-arena) | TypeScript | Game and red-team harness for LLM prompt injection (OWASP LLM01) |
+| [attackpath](https://github.com/jvch0512/attackpath) | Go | Attack path graph with Dijkstra and remediation what-if |
+| [honeynet-live](https://github.com/jvch0512/honeynet-live) | Go | Live honeypot with attacker simulator, SSE dashboard and IOC export |
+| [crypto-lab](https://github.com/jvch0512/crypto-lab) | Rust | SHA-256 and AES from scratch plus ECB, padding oracle, length extension and RSA attacks |
+| [terminal-soc](https://github.com/jvch0512/terminal-soc) | Rust | Terminal SOC console (ratatui) with alert triage and playbooks |
+| [vulnshop](https://github.com/jvch0512/vulnshop) | PHP + Go | Deliberately vulnerable shop with a secure twin and a scanner that proves the difference |
+| [logforge](https://github.com/jvch0512/logforge) | C | Freestanding log analysis core with CLI, Python and Node bindings, benchmarked |
+| [phish-radar](https://github.com/jvch0512/phish-radar) | TypeScript | .eml analyzer: SPF/DKIM/DMARC, links, attachments, AI review that can only raise the verdict |
+| [presales-studio](https://github.com/jvch0512/presales-studio) | TypeScript | Questionnaire to client-ready security proposal with ROI, EN/ES, number-validated AI summary |
+
+<details>
+<summary><b>More tools (24 smaller repos)</b></summary>
 
 Practical tools that connect security, operations and business value. Each repository has tests, CI and a README that explains the design decisions.
 
@@ -34,27 +59,4 @@ Practical tools that connect security, operations and business value. Each repos
 | [linux-baseline](https://github.com/jvch0512/linux-baseline) | Read-only Linux hardening checker with JSON output | Bash |
 | [tls-expiry](https://github.com/jvch0512/tls-expiry) | TLS certificate checker: expiry, chain, hostname, weak crypto, many hosts at once | Go |
 | [log-sentinel](https://github.com/jvch0512/log-sentinel) | SSH log analysis: brute force, spraying and success-after-failure detection | Go |
-| [mailauth-audit](https://github.com/jvch0512/mailauth-audit) | Offline SPF, DKIM and DMARC auditor with lookup budget and key-size checks | Rust |
-| [k8s-audit](https://github.com/jvch0512/k8s-audit) | Static security audit for Kubernetes manifests with a fix per finding | TypeScript |
-| [sbom-diff](https://github.com/jvch0512/sbom-diff) | CycloneDX SBOM comparison with license and downgrade policy gates | TypeScript |
-
-## Focus areas
-
-`Cybersecurity` `Vulnerability management` `Detection engineering` `GRC (NIS2, GDPR, ISO 27001)` `Pre-sales engineering` `Data analytics` `Automation`
-
-> Note: these projects were built with AI assistance as portfolio and learning work. I review, run and can explain every part of them.
-
-## Flagship projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [secops-hub](https://github.com/jvch0512/secops-hub) | Go | SOC dashboard with ATT&CK mapping and AI triage |
-| [prompt-injection-arena](https://github.com/jvch0512/prompt-injection-arena) | TypeScript | Game and red-team harness for LLM prompt injection (OWASP LLM01) |
-| [attackpath](https://github.com/jvch0512/attackpath) | Go | Attack path graph with Dijkstra and remediation what-if |
-| [honeynet-live](https://github.com/jvch0512/honeynet-live) | Go | Live honeypot with attacker simulator, SSE dashboard and IOC export |
-| [crypto-lab](https://github.com/jvch0512/crypto-lab) | Rust | SHA-256 and AES from scratch plus ECB, padding oracle, length extension and RSA attacks |
-| [terminal-soc](https://github.com/jvch0512/terminal-soc) | Rust | Terminal SOC console (ratatui) with alert triage and playbooks |
-| [vulnshop](https://github.com/jvch0512/vulnshop) | PHP + Go | Deliberately vulnerable shop with a secure twin and a scanner that proves the difference |
-| [logforge](https://github.com/jvch0512/logforge) | C | Freestanding log analysis core with CLI, Python and Node bindings, benchmarked |
-| [phish-radar](https://github.com/jvch0512/phish-radar) | TypeScript | .eml analyzer: SPF/DKIM/DMARC, links, attachments, AI review that can only raise the verdict |
-| [presales-studio](https://github.com/jvch0512/presales-studio) | TypeScript | Questionnaire to client-ready security proposal with ROI, EN/ES, number-validated AI summary |
+| [mailauth-audit](https://github.com/jvch0512/mailauth-audit) |
