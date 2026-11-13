@@ -28,6 +28,9 @@ I build security tools, then explain them to the people who have to buy them.
 | [prompt-injection-arena](https://github.com/jvch0512/prompt-injection-arena) | TypeScript | Game and red-team harness for LLM prompt injection (OWASP LLM01) |
 | [attackpath](https://github.com/jvch0512/attackpath) | Go | Attack path graph with Dijkstra and remediation what-if |
 | [phish-radar](https://github.com/jvch0512/phish-radar) | TypeScript | .eml analyzer: SPF/DKIM/DMARC, links, attachments, AI review that can only raise the verdict |
+| [breach-to-boardroom](https://github.com/jvch0512/breach-to-boardroom) | TypeScript | Raw logs to a board-ready incident brief: euro loss range, NIS2 and GDPR clocks, decisions for leadership |
+| [cyber-arena](https://github.com/jvch0512/cyber-arena) | TypeScript | Deterministic red vs blue simulation with partial information, agent tournament and match logs |
+| [discovery-copilot](https://github.com/jvch0512/discovery-copilot) | TypeScript | Pre-sales discovery prep: NIS2, DORA, ENS and GDPR scoping, ranked gaps, questions and demo storyline, EN/ES |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
