@@ -31,6 +31,8 @@ I build security tools, then explain them to the people who have to buy them.
 | [breach-to-boardroom](https://github.com/jvch0512/breach-to-boardroom) | TypeScript | Raw logs to a board-ready incident brief: euro loss range, NIS2 and GDPR clocks, decisions for leadership |
 | [cyber-arena](https://github.com/jvch0512/cyber-arena) | TypeScript | Deterministic red vs blue simulation with partial information, agent tournament and match logs |
 | [discovery-copilot](https://github.com/jvch0512/discovery-copilot) | TypeScript | Pre-sales discovery prep: NIS2, DORA, ENS and GDPR scoping, ranked gaps, questions and demo storyline, EN/ES |
+| [compliance-workbench](https://github.com/jvch0512/compliance-workbench) | TypeScript | RFP shredder mapped to NIS2, ISO 27001 and ENS, DORA contract register check, ENS planner, security ROI lab and a NIS2 CI gate |
+| [mcp-red-team](https://github.com/jvch0512/mcp-red-team) | Python | Offensive tester for MCP servers: tool poisoning, injection, SSRF, secret leaks and rug pulls |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
