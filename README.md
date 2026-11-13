@@ -41,6 +41,10 @@ I build security tools, then explain them to the people who have to buy them.
 | [tlpt-planner](https://github.com/jvch0512/tlpt-planner) | TypeScript | DORA TLPT planner: dated schedule from the RTS 2025/1190 phases, readiness and cycle checks |
 | [cloud-to-ens](https://github.com/jvch0512/cloud-to-ens) | TypeScript | Cloud configuration to ENS and NIS2 findings, in Spanish and English |
 | [insurance-readiness](https://github.com/jvch0512/insurance-readiness) | TypeScript | Cyber insurance questionnaire answers checked against evidence, with gates and misstatement risk |
+| [trifecta-guard](https://github.com/jvch0512/trifecta-guard) | TypeScript | Replays agent traces against the lethal trifecta (private data, untrusted input, external communication) and suggests a policy |
+| [questionnaire-copilot](https://github.com/jvch0512/questionnaire-copilot) | TypeScript | Draft security questionnaire answers from your own policies, with citations, confidence and stale-source flags |
+| [pqc-readiness](https://github.com/jvch0512/pqc-readiness) | TypeScript | Post-quantum readiness: crypto inventory, harvest-now risk against EU and NIST dates, migration waves and CBOM |
+| [sovereignty-lens](https://github.com/jvch0512/sovereignty-lens) | TypeScript | Cloud sovereignty screening: indicative SEAL per objective, GDPR Chapter V, DORA exit and sovereignty-washing flags |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
