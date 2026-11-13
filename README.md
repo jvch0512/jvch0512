@@ -43,3 +43,18 @@ Practical tools that connect security, operations and business value. Each repos
 `Cybersecurity` `Vulnerability management` `Detection engineering` `GRC (NIS2, GDPR, ISO 27001)` `Pre-sales engineering` `Data analytics` `Automation`
 
 > Note: these projects were built with AI assistance as portfolio and learning work. I review, run and can explain every part of them.
+
+## Flagship projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [secops-hub](https://github.com/jvch0512/secops-hub) | Go | SOC dashboard with ATT&CK mapping and AI triage |
+| [prompt-injection-arena](https://github.com/jvch0512/prompt-injection-arena) | TypeScript | Game and red-team harness for LLM prompt injection (OWASP LLM01) |
+| [attackpath](https://github.com/jvch0512/attackpath) | Go | Attack path graph with Dijkstra and remediation what-if |
+| [honeynet-live](https://github.com/jvch0512/honeynet-live) | Go | Live honeypot with attacker simulator, SSE dashboard and IOC export |
+| [crypto-lab](https://github.com/jvch0512/crypto-lab) | Rust | SHA-256 and AES from scratch plus ECB, padding oracle, length extension and RSA attacks |
+| [terminal-soc](https://github.com/jvch0512/terminal-soc) | Rust | Terminal SOC console (ratatui) with alert triage and playbooks |
+| [vulnshop](https://github.com/jvch0512/vulnshop) | PHP + Go | Deliberately vulnerable shop with a secure twin and a scanner that proves the difference |
+| [logforge](https://github.com/jvch0512/logforge) | C | Freestanding log analysis core with CLI, Python and Node bindings, benchmarked |
+| [phish-radar](https://github.com/jvch0512/phish-radar) | TypeScript | .eml analyzer: SPF/DKIM/DMARC, links, attachments, AI review that can only raise the verdict |
+| [presales-studio](https://github.com/jvch0512/presales-studio) | TypeScript | Questionnaire to client-ready security proposal with ROI, EN/ES, number-validated AI summary |
