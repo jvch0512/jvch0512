@@ -55,6 +55,13 @@ I build security tools, then explain them to the people who have to buy them.
 | [pcap-triage](https://github.com/jvch0512/pcap-triage) | C | Packet capture triage: port scans, host sweeps and cleartext credentials from pcap files, fuzz-tested |
 | [packed-spotter](https://github.com/jvch0512/packed-spotter) | C++ | Packed and encrypted binary spotter: entropy map, PE section analysis and a 0-100 score, fuzz-tested |
 | [wp-plugin-audit](https://github.com/jvch0512/wp-plugin-audit) | PHP | Static security audit for WordPress plugins with light taint tracking |
+| [access-log-hunter](https://github.com/jvch0512/access-log-hunter) | Lua | Web attack hunter for access logs: SQLi, traversal, log4shell and scanners with per-IP scoring |
+| [cron-audit](https://github.com/jvch0512/cron-audit) | Nim | Persistence hunter for crontab files: reverse shells, download-and-run and hidden payloads |
+| [iam-policy-lint](https://github.com/jvch0512/iam-policy-lint) | OCaml | AWS IAM policy linter: wildcards, public principals and privilege escalation paths |
+| [ssh-config-audit](https://github.com/jvch0512/ssh-config-audit) | Elixir | sshd_config hardening audit with an A to F grade and the exact fix for each line |
+| [ad-export-audit](https://github.com/jvch0512/ad-export-audit) | C# | Active Directory export audit: Kerberoasting, AS-REP roasting, delegation and stale privileged accounts |
+| [mail-auth-lint](https://github.com/jvch0512/mail-auth-lint) | Haskell | SPF, DMARC and DKIM linter: finds the small silent mistakes that leave a domain spoofable |
+| [vuln-prioritizer](https://github.com/jvch0512/vuln-prioritizer) | R | Risk-based vulnerability prioritization: CVSS, EPSS, KEV and exposure into P0 to P3 tiers |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
