@@ -62,6 +62,7 @@ I build security tools, then explain them to the people who have to buy them.
 | [ad-export-audit](https://github.com/jvch0512/ad-export-audit) | C# | Active Directory export audit: Kerberoasting, AS-REP roasting, delegation and stale privileged accounts |
 | [mail-auth-lint](https://github.com/jvch0512/mail-auth-lint) | Haskell | SPF, DMARC and DKIM linter: finds the small silent mistakes that leave a domain spoofable |
 | [vuln-prioritizer](https://github.com/jvch0512/vuln-prioritizer) | R | Risk-based vulnerability prioritization: CVSS, EPSS, KEV and exposure into P0 to P3 tiers |
+| [cert-lint](https://github.com/jvch0512/cert-lint) | Erlang | Offline X.509 certificate linter: expiry, weak keys, SHA-1, SAN and quantum exposure |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
