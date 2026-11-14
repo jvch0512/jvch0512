@@ -53,6 +53,8 @@ I build security tools, then explain them to the people who have to buy them.
 | [auth-log-hunter](https://github.com/jvch0512/auth-log-hunter) | Perl | SSH auth log hunter: brute force, password spraying and compromise detection from auth.log |
 | [sbom-license-gate](https://github.com/jvch0512/sbom-license-gate) | Java | Licence policy gate for CycloneDX SBOMs: SPDX expressions, copyleft review and CI exit codes |
 | [pcap-triage](https://github.com/jvch0512/pcap-triage) | C | Packet capture triage: port scans, host sweeps and cleartext credentials from pcap files, fuzz-tested |
+| [packed-spotter](https://github.com/jvch0512/packed-spotter) | C++ | Packed and encrypted binary spotter: entropy map, PE section analysis and a 0-100 score, fuzz-tested |
+| [wp-plugin-audit](https://github.com/jvch0512/wp-plugin-audit) | PHP | Static security audit for WordPress plugins with light taint tracking |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
