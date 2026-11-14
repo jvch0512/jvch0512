@@ -63,6 +63,17 @@ I build security tools, then explain them to the people who have to buy them.
 | [mail-auth-lint](https://github.com/jvch0512/mail-auth-lint) | Haskell | SPF, DMARC and DKIM linter: finds the small silent mistakes that leave a domain spoofable |
 | [vuln-prioritizer](https://github.com/jvch0512/vuln-prioritizer) | R | Risk-based vulnerability prioritization: CVSS, EPSS, KEV and exposure into P0 to P3 tiers |
 | [cert-lint](https://github.com/jvch0512/cert-lint) | Erlang | Offline X.509 certificate linter: expiry, weak keys, SHA-1, SAN and quantum exposure |
+| [cvss31](https://github.com/jvch0512/cvss31) | Fortran | CVSS v3.1 base score calculator and batch triage, spec-exact rounding |
+| [attack-path-prolog](https://github.com/jvch0512/attack-path-prolog) | Prolog | Attack paths from facts: internet to crown jewels, with choke points |
+| [card-scan](https://github.com/jvch0512/card-scan) | Ada | Finds card numbers in files for PCI DSS scoping, always masked |
+| [redos-spotter](https://github.com/jvch0512/redos-spotter) | Common Lisp | Finds ReDoS-prone regexes and proves it with step counts |
+| [dmarc-report](https://github.com/jvch0512/dmarc-report) | Racket | DMARC aggregate report analyzer: spoofing sources and enforcement readiness |
+| [netconf-audit](https://github.com/jvch0512/netconf-audit) | Tcl | Cisco IOS style config audit: telnet, SNMP, secrets, VTY exposure |
+| [listen-audit](https://github.com/jvch0512/listen-audit) | AWK | Audits ss/netstat output for risky listening services (AWK) |
+| [hash-audit](https://github.com/jvch0512/hash-audit) | D | Password hash file audit: weak algorithms, empty passwords, reuse |
+| [jwt-audit](https://github.com/jvch0512/jwt-audit) | Rust | JWT audit: alg none, key injection, expiry and secrets in claims |
+| [tfplan-guard](https://github.com/jvch0512/tfplan-guard) | Go | Terraform plan review before apply: data loss, open ports, wildcard IAM |
+| [oauth-scope-audit](https://github.com/jvch0512/oauth-scope-audit) | Python | OAuth app grant audit: risky scopes, unverified publishers, stale access |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
