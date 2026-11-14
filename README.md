@@ -45,6 +45,14 @@ I build security tools, then explain them to the people who have to buy them.
 | [questionnaire-copilot](https://github.com/jvch0512/questionnaire-copilot) | TypeScript | Draft security questionnaire answers from your own policies, with citations, confidence and stale-source flags |
 | [pqc-readiness](https://github.com/jvch0512/pqc-readiness) | TypeScript | Post-quantum readiness: crypto inventory, harvest-now risk against EU and NIST dates, migration waves and CBOM |
 | [sovereignty-lens](https://github.com/jvch0512/sovereignty-lens) | TypeScript | Cloud sovereignty screening: indicative SEAL per objective, GDPR Chapter V, DORA exit and sovereignty-washing flags |
+| [beacon-hunter](https://github.com/jvch0512/beacon-hunter) | Rust | Finds C2 beaconing in connection logs with jitter-tolerant statistics and an explainable score |
+| [secret-proof](https://github.com/jvch0512/secret-proof) | Go | Offline secret triage: separates real-format tokens from fakes via checksum verification, with JWT analysis |
+| [risk-in-euros](https://github.com/jvch0512/risk-in-euros) | Python | Cyber risk in euros: FAIR-style Monte Carlo, loss exceedance curve and control ROI for budget decisions |
+| [dns-exfil-hunter](https://github.com/jvch0512/dns-exfil-hunter) | Python | Hunts DNS tunneling and DGA activity in query logs with explainable per-client scoring |
+| [gha-audit](https://github.com/jvch0512/gha-audit) | Ruby | GitHub Actions workflow auditor: script injection, pull_request_target, unpinned actions and token permissions |
+| [auth-log-hunter](https://github.com/jvch0512/auth-log-hunter) | Perl | SSH auth log hunter: brute force, password spraying and compromise detection from auth.log |
+| [sbom-license-gate](https://github.com/jvch0512/sbom-license-gate) | Java | Licence policy gate for CycloneDX SBOMs: SPDX expressions, copyleft review and CI exit codes |
+| [pcap-triage](https://github.com/jvch0512/pcap-triage) | C | Packet capture triage: port scans, host sweeps and cleartext credentials from pcap files, fuzz-tested |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
