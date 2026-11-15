@@ -74,6 +74,11 @@ I build security tools, then explain them to the people who have to buy them.
 | [jwt-audit](https://github.com/jvch0512/jwt-audit) | Rust | JWT audit: alg none, key injection, expiry and secrets in claims |
 | [tfplan-guard](https://github.com/jvch0512/tfplan-guard) | Go | Terraform plan review before apply: data loss, open ports, wildcard IAM |
 | [oauth-scope-audit](https://github.com/jvch0512/oauth-scope-audit) | Python | OAuth app grant audit: risky scopes, unverified publishers, stale access |
+| [jar-scan](https://github.com/jvch0512/jar-scan) | Java | Java archive scanner: vulnerable libraries inside JAR, WAR, EAR and shaded jars |
+| [elf-harden](https://github.com/jvch0512/elf-harden) | C | ELF hardening checker: PIE, NX, RELRO, canary, RPATH, unsafe imports |
+| [pdf-triage](https://github.com/jvch0512/pdf-triage) | C++ | PDF triage: JavaScript, launch actions, embedded files, obfuscated names |
+| [nginx-audit](https://github.com/jvch0512/nginx-audit) | Ruby | nginx config audit: weak TLS, alias traversal, missing headers |
+| [ini-audit](https://github.com/jvch0512/ini-audit) | PHP | php.ini audit: remote includes, error display, session cookies, dangerous functions |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
