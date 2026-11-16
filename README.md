@@ -86,6 +86,7 @@ I build security tools, then explain them to the people who have to buy them.
 | [login-defs-audit](https://github.com/jvch0512/login-defs-audit) | Guile | login.defs audit in Guile Scheme: password aging, hash method, umask |
 | [rbac-audit](https://github.com/jvch0512/rbac-audit) | Crystal | Kubernetes RBAC audit: cluster-admin, wildcards, secret readers, exec, escalate |
 | [systemd-unit-audit](https://github.com/jvch0512/systemd-unit-audit) | Vala | systemd unit hardening audit: root, sandboxing, capabilities, secrets |
+| [npm-install-audit](https://github.com/jvch0512/npm-install-audit) | JavaScript | npm install-time risk audit: install scripts, git deps, wildcards, HTTP tarballs |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
