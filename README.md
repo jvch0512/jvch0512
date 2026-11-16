@@ -87,6 +87,22 @@ I build security tools, then explain them to the people who have to buy them.
 | [rbac-audit](https://github.com/jvch0512/rbac-audit) | Crystal | Kubernetes RBAC audit: cluster-admin, wildcards, secret readers, exec, escalate |
 | [systemd-unit-audit](https://github.com/jvch0512/systemd-unit-audit) | Vala | systemd unit hardening audit: root, sandboxing, capabilities, secrets |
 | [npm-install-audit](https://github.com/jvch0512/npm-install-audit) | JavaScript | npm install-time risk audit: install scripts, git deps, wildcards, HTTP tarballs |
+| [nis2-gap-check](https://github.com/jvch0512/nis2-gap-check) | Raku | NIS2 Article 21 gap check from a CSV self-assessment: missing, unowned, unevidenced and stale measures |
+| [dora-ict-register](https://github.com/jvch0512/dora-ict-register) | Standard ML | DORA register of information checker: missing fields, LEI and contract date errors, critical function gaps |
+| [ens-checker](https://github.com/jvch0512/ens-checker) | Scheme | Spanish ENS compliance checker for facts files: category, measures and evidence gaps |
+| [cra-sbom-check](https://github.com/jvch0512/cra-sbom-check) | F# | Cyber Resilience Act SBOM check: missing supplier, version, hash, licence and vulnerability data |
+| [ai-act-inventory](https://github.com/jvch0512/ai-act-inventory) | Python | EU AI Act inventory linter: risk class, role, oversight and documentation gaps per AI system |
+| [gdpr-ropa-lint](https://github.com/jvch0512/gdpr-ropa-lint) | Go | GDPR Article 30 record of processing linter: missing purposes, legal bases, retention and transfer safeguards |
+| [s3-policy-audit](https://github.com/jvch0512/s3-policy-audit) | Rust | AWS S3 bucket policy and configuration audit: public principals, wildcards, TLS, encryption, logging |
+| [azure-nsg-audit](https://github.com/jvch0512/azure-nsg-audit) | Visual Basic .NET | Azure NSG export audit: internet-facing admin and database ports, any-any allows, wide ranges, egress |
+| [entra-export-audit](https://github.com/jvch0512/entra-export-audit) | C# | Entra ID export audit: admins without MFA, permanent roles, guests with admin roles, stale accounts |
+| [k8s-netpol-audit](https://github.com/jvch0512/k8s-netpol-audit) | Nim | Kubernetes NetworkPolicy coverage audit: unprotected namespaces, default deny, allow-all rules |
+| [helm-values-audit](https://github.com/jvch0512/helm-values-audit) | Lua | Helm values.yaml audit: hard-coded secrets, weak passwords, privileged containers, latest tags |
+| [sigma-lint](https://github.com/jvch0512/sigma-lint) | Ruby | Sigma rule linter: required fields, UUIDs, conditions, unused selections, match-all values, ATT&CK tags |
+| [yara-lint](https://github.com/jvch0512/yara-lint) | Haskell | YARA rule linter: missing conditions, unreferenced strings, short strings, slow regexes, duplicate names |
+| [ioc-hygiene](https://github.com/jvch0512/ioc-hygiene) | Perl | IOC list linter: live URLs and IPs, reserved addresses, known-good indicators, bad hashes, duplicates |
+| [evtx-triage](https://github.com/jvch0512/evtx-triage) | D | Windows event log triage from JSON: log clearing, RDP, brute force, services, PowerShell, LSASS |
+| [mitre-map](https://github.com/jvch0512/mitre-map) | PHP | ATT&CK reference checker: malformed and deprecated technique IDs, redundant tags, tactic coverage gaps |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
