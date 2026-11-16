@@ -79,6 +79,13 @@ I build security tools, then explain them to the people who have to buy them.
 | [pdf-triage](https://github.com/jvch0512/pdf-triage) | C++ | PDF triage: JavaScript, launch actions, embedded files, obfuscated names |
 | [nginx-audit](https://github.com/jvch0512/nginx-audit) | Ruby | nginx config audit: weak TLS, alias traversal, missing headers |
 | [ini-audit](https://github.com/jvch0512/ini-audit) | PHP | php.ini audit: remote includes, error display, session cookies, dangerous functions |
+| [csp-audit](https://github.com/jvch0512/csp-audit) | Scala | HTTP security headers and CSP audit: unsafe-inline, wildcards, HSTS, framing |
+| [sudoers-audit](https://github.com/jvch0512/sudoers-audit) | Clojure | sudoers audit: NOPASSWD ALL, shell escapes, wildcards, editors that give root |
+| [passwd-audit](https://github.com/jvch0512/passwd-audit) | COBOL | passwd and shadow audit in COBOL: UID 0, empty passwords, weak hashes |
+| [iptables-audit](https://github.com/jvch0512/iptables-audit) | Pascal | iptables audit in Free Pascal: ACCEPT policies, open admin ports, missing drops |
+| [login-defs-audit](https://github.com/jvch0512/login-defs-audit) | Guile | login.defs audit in Guile Scheme: password aging, hash method, umask |
+| [rbac-audit](https://github.com/jvch0512/rbac-audit) | Crystal | Kubernetes RBAC audit: cluster-admin, wildcards, secret readers, exec, escalate |
+| [systemd-unit-audit](https://github.com/jvch0512/systemd-unit-audit) | Vala | systemd unit hardening audit: root, sandboxing, capabilities, secrets |
 
 <details>
 <summary><b>More tools (32 smaller repos)</b></summary>
